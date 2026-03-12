@@ -1,5 +1,6 @@
 # Unemployment Rate Analysis
 
+
 This project analyzes unemployment trends during COVID-19.
 
 Dataset Source: Kaggle
@@ -10,7 +11,9 @@ Pandas
 Matplotlib
 Seaborn
 
+
 Analysis Includes:
+
 • Data Cleaning
 • Trend Visualization
 • Regional Unemployment Comparison
